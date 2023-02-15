@@ -1,1 +1,1 @@
- script that displays all users and their home directories, sorted by users.
+ script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
